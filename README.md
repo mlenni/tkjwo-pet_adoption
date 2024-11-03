@@ -1,6 +1,7 @@
-Sovellus lemmikkien adoptiota varten
+# Sovellus lemmikkien adoptiota varten
 
-Sovelluksella käyttäjä voi selata ja etsiä itselleeen sopivan adoptiolemmikin ja/tai toimia itse adoptiovanhempana omalle lemmikilleen. 
+### Sovelluksella käyttäjä voi selata ja etsiä itselleeen sopivan adoptiolemmikin ja/tai toimia itse adoptiovanhempana omalle lemmikilleen. 
+
 Ominaisuudet:
 - Käyttäjä voi luoda tilin
 - Käyttäjä voi etsiä lemmikkejä sovelluksella ja tehdä rajauksia (laji, ikä, ...)
